@@ -1,0 +1,17 @@
+.navbar{
+    margin-bottom: 20px;
+}
+
+body{
+    background-color: rgb(173, 233, 167);
+}
+
+#resumen{
+    background-color: rgb(134, 132, 130);
+    border-radius: 10px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+    padding: 20px;
+}
+
